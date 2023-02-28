@@ -1,0 +1,15 @@
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\bin\Debug\net6.0\Homework1_C#.exe
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\bin\Debug\net6.0\Homework1_C#.deps.json
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\bin\Debug\net6.0\Homework1_C#.runtimeconfig.json
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\bin\Debug\net6.0\Homework1_C#.dll
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\bin\Debug\net6.0\Homework1_C#.pdb
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.csproj.AssemblyReference.cache
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.AssemblyInfoInputs.cache
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.AssemblyInfo.cs
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.csproj.CoreCompileInputs.cache
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.dll
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\refint\Homework1_C#.dll
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.pdb
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\Homework1_C#.genruntimeconfig.cache
+C:\Users\Stefan & Marko\source\repos\Homework1_C#\Homework1_C#\obj\Debug\net6.0\ref\Homework1_C#.dll
