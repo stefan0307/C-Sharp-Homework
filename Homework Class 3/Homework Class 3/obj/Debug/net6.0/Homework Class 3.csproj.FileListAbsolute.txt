@@ -1,0 +1,15 @@
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\bin\Debug\net6.0\Homework Class 3.exe
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\bin\Debug\net6.0\Homework Class 3.deps.json
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\bin\Debug\net6.0\Homework Class 3.runtimeconfig.json
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\bin\Debug\net6.0\Homework Class 3.dll
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\bin\Debug\net6.0\Homework Class 3.pdb
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.csproj.AssemblyReference.cache
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.AssemblyInfoInputs.cache
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.AssemblyInfo.cs
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.dll
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\refint\Homework Class 3.dll
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.pdb
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\Homework Class 3.genruntimeconfig.cache
+C:\Users\Stefan & Marko\source\repos\Homework Class 3\Homework Class 3\obj\Debug\net6.0\ref\Homework Class 3.dll
